@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "蒸米饭（美善品版）.md",
+                "file": "绿豆汤（美善品版）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "蒸米饭（美善品版）"
+              "title": "绿豆汤（美善品版）"
             }
           }
         ]
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -176,10 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec0fda5002c781d6",
+  "active": "68e2aa089642f78d",
   "lastOpenFiles": [
-    "README.md",
     "蒸米饭（美善品版）.md",
+    "绿豆汤（美善品版）.md",
+    "README.md",
     "Hello"
   ]
 }
