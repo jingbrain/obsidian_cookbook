@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "绿豆汤（美善品版）.md",
+                "file": "蒸白米饭（美善品版）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "绿豆汤（美善品版）"
+              "title": "蒸白米饭（美善品版）"
             }
           }
         ]
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "8041ef3f15e3e86a",
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "绿豆汤（美善品版）.md",
+            "file": "蒸白米饭（美善品版）.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "绿豆汤（美善品版）.md",
+            "file": "蒸白米饭（美善品版）.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "绿豆汤（美善品版）.md",
+            "file": "蒸白米饭（美善品版）.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,10 +154,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66653caab9eadad3",
+  "active": "74d2e8a4c7fc1bf5",
   "lastOpenFiles": [
-    "蒸白米饭（美善品版）.md",
     "绿豆汤（美善品版）.md",
+    "蒸白米饭（美善品版）.md",
     "Templates/TPL_Recipe.md",
     "Templates",
     "蒸米饭（美善品版）.md"
