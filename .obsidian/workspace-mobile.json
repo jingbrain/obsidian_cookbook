@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "蒸白米饭（美善品版）.md",
+                "file": "绿豆汤（美善品版）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "蒸白米饭（美善品版）"
+              "title": "绿豆汤（美善品版）"
             }
           }
         ]
@@ -145,19 +145,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "74d2e8a4c7fc1bf5",
   "lastOpenFiles": [
-    "绿豆汤（美善品版）.md",
     "蒸白米饭（美善品版）.md",
+    "绿豆汤（美善品版）.md",
     "Templates/TPL_Recipe.md",
     "Templates",
     "蒸米饭（美善品版）.md"
