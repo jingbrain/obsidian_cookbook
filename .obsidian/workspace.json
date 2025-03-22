@@ -11,10 +11,14 @@
             "id": "52d5bfae05d0d56e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "卤肉饭（喻娟版）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "卤肉饭（喻娟版）"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#食材/米饭",
+                "query": "tag:#食材/五花肉",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -173,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6eb57e7ce3f8dc1",
+  "active": "b2287efd0d2101e3",
   "lastOpenFiles": [
+    "卤肉饭（喻娟版）.md",
     "蒸白米饭（美善品版）.md",
     "绿豆汤（美善品版）.md",
     "玉米汁（美善品版）.md",
