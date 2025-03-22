@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ad73ff37fda81870",
+        "id": "560bb637588b7a3c",
         "type": "tabs",
         "children": [
           {
-            "id": "c97a7b87e485e59e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/TPL_Recipe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TPL_Recipe"
-            }
-          },
-          {
-            "id": "abc7a4f2bcb44cd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/TPL_Insert_by_Tag.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TPL_Insert_by_Tag"
-            }
-          },
-          {
-            "id": "c1029d1c8905101f",
+            "id": "cd6cbb2a7d073139",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "家常置顶的菜谱.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "家常置顶的菜谱"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,17 +177,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1029d1c8905101f",
+  "active": "cd6cbb2a7d073139",
   "lastOpenFiles": [
-    "Templates/TPL_Insert_by_Tag.md",
-    "家常置顶的菜谱.md",
     "Templates/TPL_Recipe.md",
+    "Templates/TPL_Insert_by_Tag.md",
+    "劲道十足的呛面馒头（美善品版）.md",
+    "家常置顶的菜谱.md",
     "绿豆汤（美善品版）.md",
     "品类 肉类.md",
     "玉米汁（美善品版）.md",
     "卤肉饭（喻娟版）.md",
     "蒸白米饭（美善品版）.md",
-    "劲道十足的呛面馒头（美善品版）.md",
     "README.md",
     "Templates",
     "Hello"
