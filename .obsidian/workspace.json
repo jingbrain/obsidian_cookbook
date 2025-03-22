@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,11 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68e2aa089642f78d",
+  "active": "c97a7b87e485e59e",
   "lastOpenFiles": [
+    "品类 肉类.md",
+    "绿豆汤（美善品版）.md",
     "玉米汁（美善品版）.md",
     "卤肉饭（喻娟版）.md",
-    "绿豆汤（美善品版）.md",
     "蒸白米饭（美善品版）.md",
     "劲道十足的呛面馒头（美善品版）.md",
     "Templates/TPL_Recipe.md",
