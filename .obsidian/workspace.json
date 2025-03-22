@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "家常置顶的菜谱.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd6cbb2a7d073139",
+  "active": "840618520655d613",
   "lastOpenFiles": [
     "Templates/TPL_Insert_by_Tag.md",
     "家常置顶的菜谱.md",
