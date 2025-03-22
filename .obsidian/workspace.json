@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45e93af3331614a7",
+        "id": "ad73ff37fda81870",
         "type": "tabs",
         "children": [
           {
-            "id": "52d5bfae05d0d56e",
+            "id": "c97a7b87e485e59e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#食材/绿豆",
+                "query": "tag:#绿豆",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,9 +181,9 @@
   "active": "68e2aa089642f78d",
   "lastOpenFiles": [
     "玉米汁（美善品版）.md",
-    "蒸白米饭（美善品版）.md",
     "卤肉饭（喻娟版）.md",
     "绿豆汤（美善品版）.md",
+    "蒸白米饭（美善品版）.md",
     "劲道十足的呛面馒头（美善品版）.md",
     "Templates/TPL_Recipe.md",
     "README.md",
