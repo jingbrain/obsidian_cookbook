@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#工具",
+            "query": "tag:#食材",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -171,6 +171,8 @@
   },
   "active": "66653caab9eadad3",
   "lastOpenFiles": [
+    "Templates/TPL_Recipe.md",
+    "Templates",
     "蒸米饭（美善品版）.md",
     "绿豆汤（美善品版）.md"
   ]
