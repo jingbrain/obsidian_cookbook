@@ -142,7 +142,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68e2aa089642f78d",
+  "active": "f6eb57e7ce3f8dc1",
   "lastOpenFiles": [
     "绿豆汤（美善品版）.md",
     "玉米汁（美善品版）.md",
