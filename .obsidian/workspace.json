@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2287efd0d2101e3",
+  "active": "ec0fda5002c781d6",
   "lastOpenFiles": [
     "README.md",
-    "Hello",
-    "蒸米饭（美善品版）.md"
+    "蒸米饭（美善品版）.md",
+    "Hello"
   ]
 }
