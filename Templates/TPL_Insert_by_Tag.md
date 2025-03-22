@@ -1,4 +1,6 @@
 ```dataview
-TABLE file.link AS "笔记"
+LIST
 FROM ""
-WHERE contains(file.tags, "#标签名")
+WHERE contains(file.tags, "#置顶家常")
+```
+```
