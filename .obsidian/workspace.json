@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/TPL_Recipe.md",
+                "file": "绿豆汤（美善品版）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TPL_Recipe"
+              "title": "绿豆汤（美善品版）"
             }
           }
         ],
@@ -194,8 +194,8 @@
   },
   "active": "efae1f77842fa9e3",
   "lastOpenFiles": [
-    "绿豆汤（美善品版）.md",
     "Templates/TPL_Recipe.md",
+    "绿豆汤（美善品版）.md",
     "README.md",
     "Untitled.md",
     "Templates",
