@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/TPL_Insert_Notes_by_Tag.md",
+                "file": "Templates/TPL_Insert_by_Tag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TPL_Insert_Notes_by_Tag"
+              "title": "TPL_Insert_by_Tag"
             }
           },
           {
@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "家常置顶的菜谱.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -208,7 +208,7 @@
   },
   "active": "c1029d1c8905101f",
   "lastOpenFiles": [
-    "Templates/TPL_Insert_Notes_by_Tag.md",
+    "Templates/TPL_Insert_by_Tag.md",
     "家常置顶的菜谱.md",
     "Templates/TPL_Recipe.md",
     "绿豆汤（美善品版）.md",
