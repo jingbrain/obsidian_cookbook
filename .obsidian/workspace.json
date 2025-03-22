@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#烹饪工具/美善品",
+                "query": "tag:#烹饪方法/蒸",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
