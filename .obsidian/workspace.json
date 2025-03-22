@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/TPL_Insert_by_Tag.md",
+                "file": "家常置顶的菜谱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TPL_Insert_by_Tag"
+              "title": "家常置顶的菜谱"
             }
           }
         ]
@@ -179,8 +179,8 @@
   },
   "active": "cd6cbb2a7d073139",
   "lastOpenFiles": [
-    "家常置顶的菜谱.md",
     "Templates/TPL_Insert_by_Tag.md",
+    "家常置顶的菜谱.md",
     "Templates/TPL_Recipe.md",
     "劲道十足的呛面馒头（美善品版）.md",
     "绿豆汤（美善品版）.md",
