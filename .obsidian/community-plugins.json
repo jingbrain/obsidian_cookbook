@@ -1,5 +1,7 @@
 [
   "templater-obsidian",
   "dataview",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-frontmatter-tag-suggest",
+  "obsidian-git"
 ]
