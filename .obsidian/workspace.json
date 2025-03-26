@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa38f2931815428d",
+        "id": "1267ff6e4fd9cb50",
         "type": "tabs",
         "children": [
           {
-            "id": "0dfb8c527de2e1ce",
+            "id": "34727043a6c3c404",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -145,7 +145,7 @@
             }
           },
           {
-            "id": "f6eb57e7ce3f8dc1",
+            "id": "4e177f6571ee8f28",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -169,11 +169,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6eb57e7ce3f8dc1",
+  "active": "e73945a72f16385d",
   "lastOpenFiles": [
     "家常置顶的菜谱.md",
     "待测试的菜谱.md",
