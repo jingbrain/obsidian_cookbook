@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d303fe7a87f422c",
+        "id": "a5c3cbe28ae2d31e",
         "type": "tabs",
         "children": [
           {
-            "id": "92cfd6258c24cce5",
+            "id": "117eed8e058f5bb0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -135,6 +135,16 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "581201eb5d42842d",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
     "currentTab": 3
@@ -151,9 +161,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92cfd6258c24cce5",
+  "active": "117eed8e058f5bb0",
   "lastOpenFiles": [
     "测试.md",
+    "/测试.md",
     "劲道十足的呛面馒头（美善品版）.md",
     "待测试的菜谱.md",
     "咖喱鸡肉酱油饭.md",
