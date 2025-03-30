@@ -4,5 +4,9 @@
   "dataview",
   "tag-wrangler",
   "obsidian-frontmatter-tag-suggest",
+<<<<<<< HEAD
   "obsidian-admonition"
+=======
+  "obsidian-git"
+>>>>>>> origin/main
 ]
