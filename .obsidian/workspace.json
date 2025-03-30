@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b2df47d447b69bcc",
+        "id": "fa38f2931815428d",
         "type": "tabs",
         "children": [
           {
-            "id": "56d88e6c9d28a621",
+            "id": "0dfb8c527de2e1ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "凉粉（美善品版）.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "凉粉（美善品版）"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#品类/肉类/鸡肉",
+                "query": "tag:#食材",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +149,7 @@
             }
           },
           {
-            "id": "afa81eea3095955c",
+            "id": "f6eb57e7ce3f8dc1",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -173,19 +177,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "56d88e6c9d28a621",
+  "active": "0dfb8c527de2e1ce",
   "lastOpenFiles": [
-    "凉粉（美善品版）.md",
     "酱爆鸡丁.md",
     "conflict-files-obsidian-git.md",
-    "咖喱鸡肉酱油饭.md",
-    "测试.md",
+    "凉粉（美善品版）.md",
+    "劲道十足的呛面馒头（美善品版）.md",
+    "卤肉饭（喻娟版）.md",
     "家常置顶的菜谱.md",
     "待测试的菜谱.md",
+    "咖喱鸡肉酱油饭.md",
     "Templates/TPL_菜谱模板.md",
     "Templates/TPL_按标签插入文章列表.md",
-    "卤肉饭（喻娟版）.md",
-    "劲道十足的呛面馒头（美善品版）.md",
     "绿豆汤（美善品版）.md",
     "品类 肉类.md",
     "玉米汁（美善品版）.md",
