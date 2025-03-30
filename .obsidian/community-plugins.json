@@ -3,5 +3,6 @@
   "dataview",
   "obsidian-frontmatter-tag-suggest",
   "obsidian-git",
-  "tag-wrangler"
+  "tag-wrangler",
+  "templater-obsidian"
 ]
