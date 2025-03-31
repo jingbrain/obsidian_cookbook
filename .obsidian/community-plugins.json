@@ -1,8 +1,8 @@
 [
-  "obsidian-git",
-  "templater-obsidian",
-  "tag-wrangler",
   "obsidian-admonition",
   "dataview",
-  "obsidian-frontmatter-tag-suggest"
+  "obsidian-frontmatter-tag-suggest",
+  "obsidian-git",
+  "tag-wrangler",
+  "templater-obsidian"
 ]
