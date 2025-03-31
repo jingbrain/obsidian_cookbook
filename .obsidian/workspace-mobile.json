@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "家常置顶的菜谱.md",
+                "file": "咖喱鸡肉酱油饭.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "家常置顶的菜谱"
+              "title": "咖喱鸡肉酱油饭"
             }
           }
         ]
@@ -37,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -168,9 +168,6 @@
   "active": "117eed8e058f5bb0",
   "lastOpenFiles": [
     "酱爆鸡丁.md",
-    "凉粉（美善品版）.md",
-    "三文鱼骨头豆腐汤.md",
-    "/三文鱼骨头豆腐汤.md",
     "咖喱鸡肉酱油饭.md",
     "/酱爆鸡丁.md",
     "/劲道十足的呛面馒头（美善品版）.md",
