@@ -1,12 +1,8 @@
 [
   "obsidian-git",
   "templater-obsidian",
-  "dataview",
   "tag-wrangler",
-  "obsidian-frontmatter-tag-suggest",
-<<<<<<< HEAD
-  "obsidian-admonition"
-=======
-  "obsidian-git"
->>>>>>> origin/main
+  "obsidian-admonition",
+  "dataview",
+  "obsidian-frontmatter-tag-suggest"
 ]
