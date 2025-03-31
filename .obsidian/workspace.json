@@ -140,16 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "待测试的菜谱.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 待测试的菜谱"
             }
           },
           {
-            "id": "afa81eea3095955c",
+            "id": "a407efd4c5c3d0eb",
             "type": "leaf",
             "state": {
               "type": "git-view",

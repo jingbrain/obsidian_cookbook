@@ -2,7 +2,7 @@
   "obsidian-admonition",
   "dataview",
   "obsidian-frontmatter-tag-suggest",
-  "obsidian-git",
   "tag-wrangler",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]
