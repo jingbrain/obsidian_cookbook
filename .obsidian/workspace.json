@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待测试的菜谱.md",
-                "mode": "preview",
+                "file": "孜然鸡胸肉.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "待测试的菜谱"
+              "title": "孜然鸡胸肉"
             }
           }
         ]
@@ -177,10 +177,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "afa81eea3095955c",
+  "active": "fcc6d0c0134b6c55",
   "lastOpenFiles": [
-    "待测试.md",
     "待测试的菜谱.md",
+    "待测试.md",
     "孜然鸡胸肉.md",
     "酱爆鸡丁.md",
     "咖喱鸡肉酱油饭.md",
