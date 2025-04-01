@@ -148,19 +148,9 @@
               "icon": "lucide-list",
               "title": "Outline of 待测试的菜谱"
             }
-          },
-          {
-            "id": "df7bd9bd32c347b4",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,13 +170,14 @@
   },
   "active": "b7e8abb9e2e805b4",
   "lastOpenFiles": [
+    "土豆泥（美善品版）.md",
+    "待测试的菜谱.md",
     "绿豆沙牛乳.md",
     "老干妈炒方便面.md",
     "日本牛肉盖饭.md",
     "绿豆汤（美善品版）.md",
     "孜然鸡胸肉.md",
     "养生小炒：山药+荷兰豆+胡萝卜+木耳.md",
-    "待测试的菜谱.md",
     "Templates/TPL_菜谱模板.md",
     "待测试.md",
     "酱爆鸡丁.md",
