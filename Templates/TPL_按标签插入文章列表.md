@@ -1,6 +1,6 @@
 ```dataview
 LIST
 FROM ""
-WHERE contains(file.tags, "#置顶家常")
+WHERE contains(file.tags, "")
 SORT file.name ASC
 ```
