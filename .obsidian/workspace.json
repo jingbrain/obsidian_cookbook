@@ -118,9 +118,21 @@
               "icon": "lucide-file",
               "title": "蜜汁叉烧"
             }
+          },
+          {
+            "id": "0cfb3c64f8330095",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -267,7 +279,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eee7b099f0d2addf",
+  "active": "0cfb3c64f8330095",
   "lastOpenFiles": [
     "待测试/奶油鸡肉蘑菇汤.md",
     "已测试/❤️❤️❤️挺不错/蜜汁叉烧.md",
