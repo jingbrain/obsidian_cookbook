@@ -11,10 +11,14 @@
             "id": "c65341f92e514975",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "即将测试/鸡胸肉丸.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "鸡胸肉丸"
             }
           }
         ]
@@ -164,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eee7b099f0d2addf",
+  "active": "c65341f92e514975",
   "lastOpenFiles": [
+    "已测试/❤️不咋地/酒酿南瓜丸子（垃圾菜谱）.md",
     "即将测试/南瓜腊肠焖饭.md",
     "即将测试/疙瘩汤.md",
     "Templates/TPL_Tag_Page.md",
@@ -193,7 +198,6 @@
     "待测试/青椒五花肉炒豆腐皮.md",
     "待测试/青椒炒豆腐皮.md",
     "家常置顶/凉粉（美善品版）.md",
-    "家常置顶/劲道十足的呛面馒头（美善品版）.md",
     "已测试/❤️❤️❤️挺不错",
     "已测试/❤️❤️一般般",
     "已测试",
