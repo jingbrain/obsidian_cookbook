@@ -5,5 +5,6 @@
   "templater-obsidian",
   "global-search-and-replace",
   "badges",
-  "file-explorer-note-count"
+  "file-explorer-note-count",
+  "automatic-table-of-contents"
 ]
