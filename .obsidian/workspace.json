@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "牛奶小布丁雪糕"
             }
+          },
+          {
+            "id": "c9ea8e1b375b9661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "无水炖土豆+胡萝卜+牛腩.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "无水炖土豆+胡萝卜+牛腩"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "豆腐",
+                "query": "tag:#食材/肉类/牛肉/牛腩",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,11 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7578f9d018af7bc4",
+  "active": "c9ea8e1b375b9661",
   "lastOpenFiles": [
+    "即将测试/牛奶小布丁雪糕.md",
+    "无水炖土豆+胡萝卜+牛腩.md",
     "即将测试/哈根达斯冰激凌.md",
     "即将测试/巧克力生巧雪糕.md",
-    "即将测试/牛奶小布丁雪糕.md",
     "家常置顶/葱烧豆腐.md",
     "家常置顶/蒸鸡蛋羹（美善品版）.md",
     "即将测试/南瓜腊肠焖饭.md",
@@ -210,7 +225,6 @@
     "即将测试/雪碧芝麻酱拌面.md",
     "即将测试/桔子果冻.md",
     "已测试/❤️❤️一般般/酱爆鸡丁.md",
-    "待测试/芝麻凉拌莴笋丝.md",
     "食材分类/莴笋",
     "单个食材做法汇总",
     "已测试/❤️❤️❤️挺不错",
