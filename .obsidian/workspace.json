@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "菜谱列表/牛奶小布丁雪糕.md",
+                "file": "菜谱列表/绿豆汤（美善品版）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "牛奶小布丁雪糕"
+              "title": "绿豆汤（美善品版）"
+            }
+          },
+          {
+            "id": "3aa24ca6ac88aa7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单个食材做法汇总/莴笋.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "莴笋"
+            }
+          },
+          {
+            "id": "65613c1bd582b74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单个食材做法汇总/包菜（圆白菜）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "包菜（圆白菜）"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#分类/法式/煎炖",
+                "query": "tag:#分类/西餐/披萨",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,8 +197,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11d7eaa67029558a",
+  "active": "eee7b099f0d2addf",
   "lastOpenFiles": [
+    "单个食材做法汇总/土豆.md",
+    "单个食材做法汇总/素食.md",
+    "单个食材做法汇总/📌📌家常置顶📌📌.md",
+    "单个食材做法汇总/莴笋.md",
+    "菜谱列表/法式奶油鸡肉蘑菇汤.md",
+    "菜谱列表/法式无水菌菇炖鸡.md",
+    "菜谱列表/老干妈炒方便面.md",
+    "菜谱列表/热奶茶（美善品版）.md",
+    "菜谱列表/绿豆汤（美善品版）.md",
+    "菜谱列表/绿豆沙牛乳.md",
+    "菜谱列表/蜜汁叉烧.md",
+    "菜谱列表/酒酿南瓜丸子（垃圾菜谱）.md",
+    "菜谱列表/牛奶小布丁雪糕.md",
     "菜谱列表/玉米汁（美善品版）.md",
     "菜谱列表/疙瘩汤.md",
     "菜谱列表/白菜五花肉炖豆腐.md",
@@ -177,25 +219,12 @@
     "菜谱列表/糖醋排骨（美善品版）.md",
     "菜谱列表/红烧茄子.md",
     "菜谱列表/红烧萝卜（美善品版）.md",
-    "菜谱列表/绿豆汤（美善品版）.md",
-    "菜谱列表/绿豆沙牛乳.md",
     "菜谱列表/肉末鸡蛋豆腐.md",
     "菜谱列表/腰果南瓜浓（美善品版）.md",
     "菜谱列表/芝麻凉拌莴笋丝.md",
     "菜谱列表/芹菜炒肉丝.md",
     "菜谱列表/苹果小米粥.md",
     "菜谱列表/莴笋片炒木耳.md",
-    "菜谱列表/葱烧豆腐.md",
-    "菜谱列表/蒸白米饭（美善品版）.md",
-    "菜谱列表/蒸鸡蛋羹（美善品版）.md",
-    "菜谱列表/蚝油生菜.md",
-    "菜谱列表/蜜汁叉烧.md",
-    "菜谱列表/酒酿南瓜丸子（垃圾菜谱）.md",
-    "菜谱列表/酱爆鸡丁.md",
-    "菜谱列表/酱肉小笼包肉馅.md",
-    "菜谱列表/酸辣土豆丝（小高姐版）.md",
-    "菜谱列表/雪碧芝麻酱拌面.md",
-    "菜谱列表/青椒五花肉炒豆腐皮.md",
     "食材分类/莴笋",
     "单个食材做法汇总",
     "已测试/❤️❤️❤️挺不错",
