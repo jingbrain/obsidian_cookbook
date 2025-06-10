@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b584acd7c1c5bb32",
+        "id": "e9f309c819546ce4",
         "type": "tabs",
         "children": [
           {
-            "id": "128ee9d3c3234808",
+            "id": "8ca2a64e06572267",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#食材/尖椒",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,11 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "128ee9d3c3234808",
+  "active": "8ca2a64e06572267",
   "lastOpenFiles": [
-    "菜谱列表/辣椒炒香干.md",
-    "Untitled.md",
     "Templates/TPL_菜谱模板.md",
+    "无水蔬菜鸡肉锅.md",
+    "菜谱列表/辣椒炒香干.md",
     "菜谱列表/雪碧泡黄瓜.md",
     "✨优先测试✨.md",
     "📌📌家常置顶📌📌.md",
