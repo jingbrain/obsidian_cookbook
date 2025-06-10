@@ -11,10 +11,14 @@
             "id": "8ca2a64e06572267",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/TPL_菜谱模板.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TPL_菜谱模板"
             }
           }
         ]
@@ -167,8 +171,8 @@
   },
   "active": "8ca2a64e06572267",
   "lastOpenFiles": [
+    "菜谱列表/无水蔬菜鸡肉锅.md",
     "Templates/TPL_菜谱模板.md",
-    "无水蔬菜鸡肉锅.md",
     "菜谱列表/辣椒炒香干.md",
     "菜谱列表/雪碧泡黄瓜.md",
     "✨优先测试✨.md",
