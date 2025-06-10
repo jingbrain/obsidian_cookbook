@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca465bb3c5d9873a",
+        "id": "0d8d71c1e4e8e9de",
         "type": "tabs",
         "children": [
           {
-            "id": "bbf1e2075c3852dd",
+            "id": "bc502eae45f6a64b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "豆",
+                "query": "tag:#食材/尖椒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eee7b099f0d2addf",
+  "active": "bc502eae45f6a64b",
   "lastOpenFiles": [
-    "Templates/TPL_菜谱模板.md",
     "菜谱列表/辣椒炒香干.md",
+    "Untitled.md",
+    "Templates/TPL_菜谱模板.md",
     "菜谱列表/雪碧泡黄瓜.md",
     "✨优先测试✨.md",
     "📌📌家常置顶📌📌.md",
@@ -196,7 +198,6 @@
     "菜谱列表/黑芝麻燕麦糊（美善品版）.md",
     "菜谱列表/嫩豆腐虾仁盖饭.md",
     "菜谱列表/肉末鸡蛋豆腐.md",
-    "菜谱列表/白菜五花肉炖豆腐.md",
     "食材分类/莴笋",
     "单品检索",
     "已测试/❤️❤️❤️挺不错",
