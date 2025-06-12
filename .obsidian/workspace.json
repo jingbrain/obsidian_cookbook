@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e9f309c819546ce4",
+        "id": "200291bd54872382",
         "type": "tabs",
         "children": [
           {
-            "id": "8ca2a64e06572267",
+            "id": "65bf3ed49686eea6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/TPL_菜谱模板.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TPL_菜谱模板"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#食材/皮蛋",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,34 +165,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ca2a64e06572267",
+  "active": "eee7b099f0d2addf",
   "lastOpenFiles": [
-    "菜谱列表/无水蔬菜鸡肉锅.md",
+    "菜谱列表/干煸豆角（寸驴版）.md",
+    "菜谱列表/黑芝麻燕麦糊（美善品版）.md",
+    "✨优先测试✨.md",
+    "菜谱列表/鸡蛋韭菜馅.md",
+    "菜谱列表/排骨黄豆海带汤.md",
+    "菜谱列表/皮蛋豆腐.md",
     "Templates/TPL_菜谱模板.md",
+    "菜谱列表/醋溜土豆丝.md",
+    "单品检索/土豆.md",
+    "单品检索/雪糕冰棒.md",
+    "单品检索/豆浆.md",
+    "单品检索/莴笋.md",
+    "单品检索/茄子.md",
+    "单品检索/绿豆.md",
+    "单品检索/素食.md",
+    "单品检索/包菜（圆白菜）.md",
+    "单品检索/大白菜.md",
+    "菜谱列表/酸辣土豆丝（小高姐版）.md",
+    "菜谱列表/无水蔬菜鸡肉锅.md",
     "菜谱列表/辣椒炒香干.md",
     "菜谱列表/雪碧泡黄瓜.md",
-    "✨优先测试✨.md",
     "📌📌家常置顶📌📌.md",
     "❓未测试❓.md",
     "菜谱列表/沪版盐水鸭.md",
     "菜谱列表/酒酿米酒.md",
     "菜谱列表/雪碧芝麻酱拌面.md",
-    "菜谱列表/鸡蛋韭菜馅.md",
-    "菜谱列表/冰酥酪.md",
-    "菜谱列表/绿豆糕.md",
-    "菜谱列表/巧克力黄油雪糕.md",
-    "菜谱列表/大米雪糕.md",
-    "单品检索/雪糕冰棒.md",
-    "菜谱列表/牛奶小布丁雪糕.md",
-    "菜谱列表/热奶茶（美善品版）.md",
-    "菜谱列表/哈根达斯冰激凌.md",
-    "菜谱列表/猪肉白菜馅.md",
-    "单品检索/豆浆.md",
-    "菜谱列表/桔子果冻.md",
-    "菜谱列表/虾仁蔬菜鸡蛋盖饭.md",
-    "菜谱列表/黑芝麻燕麦糊（美善品版）.md",
-    "菜谱列表/嫩豆腐虾仁盖饭.md",
-    "菜谱列表/肉末鸡蛋豆腐.md",
     "食材分类/莴笋",
     "单品检索",
     "已测试/❤️❤️❤️挺不错",
