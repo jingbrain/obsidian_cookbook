@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d10f1e065ce99694",
+        "id": "97e0aad2a0c9a86e",
         "type": "tabs",
         "children": [
           {
-            "id": "142dae19f1c8629f",
+            "id": "b42049a8bd5fa47d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "菜谱列表/蜜汁叉烧.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "蜜汁叉烧"
+              "title": "New tab"
             }
           }
         ]
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "142dae19f1c8629f",
+  "active": "eee7b099f0d2addf",
   "lastOpenFiles": [
+    "菜谱列表/蜜汁叉烧.md",
     "菜谱列表/空气炸锅琥珀核桃.md",
     "菜谱列表/熬葱油.md",
     "菜谱列表/黑芝麻燕麦糊（美善品版）.md",
@@ -197,7 +193,6 @@
     "菜谱列表/无水蔬菜鸡肉锅.md",
     "菜谱列表/辣椒炒香干.md",
     "菜谱列表/雪碧泡黄瓜.md",
-    "📌📌家常置顶📌📌.md",
     "食材分类/莴笋",
     "单品检索",
     "已测试/❤️❤️❤️挺不错",
