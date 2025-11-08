@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "柠檬鸡爪.md",
+                "file": "菜谱列表/柠檬鸡爪.md",
                 "mode": "source",
                 "source": false
               },
@@ -161,18 +161,18 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a17402822ddb111e",
+  "active": "eee7b099f0d2addf",
   "lastOpenFiles": [
-    "柠檬鸡爪.md",
+    "菜谱列表/柠檬鸡爪.md",
     "菜谱列表/😑南瓜腊肠焖饭.md",
     "菜谱列表/📌酱牛肉（村驴版）.md",
     "Untitled",
