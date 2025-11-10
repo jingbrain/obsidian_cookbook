@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "428a18ceee8021c8",
+        "id": "1161298350097a70",
         "type": "tabs",
         "children": [
           {
-            "id": "fdaf6b89b61151fd",
+            "id": "42c84b69dd33e6ea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#工具",
+                "query": "tag:#标签",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,8 +166,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2287efd0d2101e3",
+  "active": "eee7b099f0d2addf",
   "lastOpenFiles": [
+    "待测试/清蒸鲈鱼.md",
+    "Templates/TPL_菜谱模板.md",
+    "2025-11-09.md",
     "菜谱列表/📖炖汤的黄金搭配.md",
     "菜谱列表/📌柠檬鸡爪.md",
     "菜谱列表/沪版盐水鸭.md",
@@ -192,9 +194,6 @@
     "菜谱列表/📌无水炖土豆+胡萝卜+牛腩牛腱.md",
     "菜谱列表/📌披萨面团（美善品版）.md",
     "菜谱列表/披萨肉末番茄酱（老婆版）.md",
-    "菜谱列表/干煸豆角（村驴版）.md",
-    "菜谱列表/女人汤.md",
-    "菜谱列表/呛炒五花肉包菜.md",
     "Untitled",
     "待测试",
     "单品检索/蔬菜",
