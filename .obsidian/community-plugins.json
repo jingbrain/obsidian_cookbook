@@ -4,7 +4,7 @@
   "tag-wrangler",
   "templater-obsidian",
   "global-search-and-replace",
-  "badges",
   "file-explorer-note-count",
-  "automatic-table-of-contents"
+  "automatic-table-of-contents",
+  "callout-integrator"
 ]
