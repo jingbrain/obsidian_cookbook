@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e0795990363df7ff",
+        "id": "d1afb479960f1840",
         "type": "tabs",
         "children": [
           {
-            "id": "9614b89f1e5ef4a4",
+            "id": "74bdac32337158c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "☞ 今晚测试/冬瓜桑拿鸡腿肉，无水无油版.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "冬瓜桑拿鸡腿肉，无水无油版"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "葱油",
+                "query": "绿豆",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,12 +170,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eee7b099f0d2addf",
+  "active": "74bdac32337158c4",
   "lastOpenFiles": [
+    "菜谱列表/绿豆汤（美善品版）.md",
+    "☞ 今晚测试/菠菜虾仁胡萝卜饭.md",
+    "☞ 今晚测试/虾仁嫩豆腐抱蛋.md",
+    "☞ 今晚测试/香菇胡萝卜肉末炖豆腐.md",
+    "☞ 今晚测试/葱烧鸡蛋.md",
+    "☞ 今晚测试/冬瓜桑拿鸡腿肉，无水无油版.md",
     "菜谱列表/熬葱油.md",
     "分类/肉类/肉末.md",
     "☞ 今晚测试/白菜虾肉香菇鸡蛋豆腐汤.md",
-    "☞ 今晚测试/香菇胡萝卜肉末炖豆腐.md",
     "待测试/电饭锅版腐乳蜜汁叉烧肉.md",
     "分类/蔬菜/土豆.md",
     "待测试/凉拌莴笋（浇热油版）.md",
@@ -181,20 +190,15 @@
     "待测试/白菜五花肉炖豆腐.md",
     "分类/蔬菜/大白菜.md",
     "菜谱列表/呛炒五花肉包菜白菜.md",
-    "Untitled.md",
     "☞ 今晚测试/酸菜肉末汤米粉.md",
     "☞ 今晚测试/糖心煎蛋.md",
-    "☞ 今晚测试/冬瓜桑拿鸡腿肉，无水无油版.md",
     "分类/蔬菜/西兰花.md",
     "菜谱列表/滑蛋鸡腿肉.md",
     "菜谱列表/蒜香西兰花.md",
     "菜谱列表/日本牛肉鸡蛋烩饭，西兰花蘑菇洋葱.md",
     "待测试/虾仁鸡蛋烩饭，西兰花蘑菇.md",
     "☞ 今晚测试/西兰花虾仁蒸蛋.md",
-    "分类/肉类/鸡腿.md",
-    "分类/肉类/鸡爪.md",
     "分类/肉类/鸡",
-    "分类/肉类/鸡胸.md",
     "分类/养生 1",
     "分类/健康养生",
     "分类/米饭",
