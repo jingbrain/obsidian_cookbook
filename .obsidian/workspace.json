@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "菜谱列表/空气炸锅烤三文鱼骨.md",
+                "file": "分类/肉类/鱼.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "空气炸锅烤三文鱼骨"
+              "title": "鱼"
+            }
+          },
+          {
+            "id": "bcd7ed1b9b936876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "三文鱼骨南瓜番茄豆腐汤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "三文鱼骨南瓜番茄豆腐汤"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "三文鱼",
+                "query": "松露",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,8 +213,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d398d61fe497352",
+  "active": "eee7b099f0d2addf",
   "lastOpenFiles": [
+    "分类/肉类/鱼.md",
+    "三文鱼骨南瓜番茄豆腐汤.md",
+    "菜谱列表/空气炸锅烤三文鱼骨.md",
     "麻辣烫.md",
     "☞ 今晚测试/黑松露口蘑芥兰牛肉炒饭 (黄磊版).md",
     "分类/西餐/披萨.md",
@@ -226,9 +242,6 @@
     "☞ 今晚测试/西兰花虾仁蒸蛋.md",
     "☞ 今晚测试/虾仁嫩豆腐抱蛋.md",
     "☞ 今晚测试/葱烧鸡蛋.md",
-    "☞ 今晚测试/菠菜虾仁胡萝卜饭.md",
-    "☞ 今晚测试/糖心煎蛋.md",
-    "☞ 今晚测试/百合莲子助眠露（黄豆 花生 小米）.md",
     "分类/特殊调味",
     "分类/肉类/鸡",
     "分类/养生 1",
