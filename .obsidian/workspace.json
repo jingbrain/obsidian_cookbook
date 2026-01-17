@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "糯米蒸排骨"
             }
+          },
+          {
+            "id": "764addda97dbb9aa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33fb301819c85025",
+  "active": "764addda97dbb9aa",
   "lastOpenFiles": [
     "菜谱列表/蒜香鸡爪（高压锅版）.md",
     "糯米蒸排骨.md",
